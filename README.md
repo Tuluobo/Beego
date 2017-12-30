@@ -1,4 +1,4 @@
-# BeegoDocker
+# Beego
 Go web framework beego and nginx Docker.
 
 ## Usage
